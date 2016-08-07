@@ -28,6 +28,7 @@ _Legend_:
 * :coffee: - accessible, coffee time reading
 * :mortar_board: - academic / hard read
 * :pineapple: - fresh, recent development
+* :wrench: - makes you a pragmatic programmer
 
 
 
@@ -47,6 +48,10 @@ _Pure programming, problem solving, detached of specific technology_
   abstraction and Scheme makes the perfect beginner FP language. If you have
   time, invest it. Otherwise, try finding gists of the ideas in this book such
   as [here](www.sicpdistilled.com).
+* :book: :wrench: :pushpin: [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) - a classic on a pragmatic thinking for programmers. Was a pivotal part
+of driving a new era of thinking, tools, languages and platforms.
+
+
 
 
 
