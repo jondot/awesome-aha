@@ -36,10 +36,11 @@ Many thanks to everyone on the contributor list :)
 
 ## Programming
 
+_Pure programming, problem solving, detached of specific technology_
+
 * 📖⌛ [Programming Pearls](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880) - programming and problem solving.
 
 
-_Pure programming, problem solving, detached of specific technology_
 
 
 ## Data
