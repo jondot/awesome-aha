@@ -23,9 +23,11 @@ is known to explain the subject in a better way.
 
 _Legend_:
 
-* 🏛 - timeless
-* 📖 - book
-* 🎓 - academic / hard read
+* :pushpin: - timeless
+* :book: - book
+* :coffee: - accessible, coffee time reading
+* :mortar_board: - academic / hard read
+* :pineapple: - fresh, recent development
 
 
 
@@ -33,14 +35,14 @@ Many thanks to everyone on the contributor list :)
 
 ## Unix
 
-* 🏛 [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/) - "get" open source.
+* :pushpin: [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/) - "get" open source.
 
 ## Programming
 
 _Pure programming, problem solving, detached of specific technology_
 
-* 📖🏛 [Programming Pearls](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880) - programming and problem solving.
-* 📖🏛 🎓 [SICP](https://mitpress.mit.edu/sicp/) - Structure and Interpretation of
+* :book: :pushpin: [Programming Pearls](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880) - programming and problem solving.
+* :book: :pushpin: :mortar_board: [SICP](https://mitpress.mit.edu/sicp/) - Structure and Interpretation of
   Computer Programs. For some, hard read. However, pivotal for understanding
   abstraction and Scheme makes the perfect beginner FP language. If you have
   time, invest it. Otherwise, try finding gists of the ideas in this book such
@@ -51,7 +53,7 @@ _Pure programming, problem solving, detached of specific technology_
 
 ## Data
 
-- [Log structured merge trees](http://www.benstopford.com/2015/02/14/log-structured-merge-trees/) - the data structure that powers
+- :pineapple: :coffee: [Log structured merge trees](http://www.benstopford.com/2015/02/14/log-structured-merge-trees/) - the data structure that powers
 a lot of recent big data products.
 
 
