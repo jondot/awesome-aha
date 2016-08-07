@@ -23,7 +23,7 @@ is known to explain the subject in a better way.
 
 _Legend_:
 
-* ⌛ - timeless
+* 🏛 - timeless
 * 📖 - book
 * 🎓 - academic / hard read
 
@@ -33,14 +33,14 @@ Many thanks to everyone on the contributor list :)
 
 ## Unix
 
-* ⌛ [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/) - "get" open source.
+* 🏛 [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/) - "get" open source.
 
 ## Programming
 
 _Pure programming, problem solving, detached of specific technology_
 
-* 📖⌛ [Programming Pearls](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880) - programming and problem solving.
-* 📖⌛ 🎓 [SICP](https://mitpress.mit.edu/sicp/) - Structure and Interpretation of
+* 📖🏛 [Programming Pearls](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880) - programming and problem solving.
+* 📖🏛 🎓 [SICP](https://mitpress.mit.edu/sicp/) - Structure and Interpretation of
   Computer Programs. For some, hard read. However, pivotal for understanding
   abstraction and Scheme makes the perfect beginner FP language. If you have
   time, invest it. Otherwise, try finding gists of the ideas in this book such
