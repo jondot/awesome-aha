@@ -54,7 +54,7 @@ of driving a new era of thinking, tools, languages and platforms.
 
 ## Patterns
 
-* [MVC](http://heim.ifi.uio.no/~trygver/1979/mvc-1/1979-05-MVC.pdf), [MVP](http://www.wildcrest.com/Potel/Portfolio/mvp.pdf) - the original articles. MV-[wildcard] patterns will keep popping up,
+* :pushpin: :mortar_board: [MVC](http://heim.ifi.uio.no/~trygver/1979/mvc-1/1979-05-MVC.pdf), [MVP](http://www.wildcrest.com/Potel/Portfolio/mvp.pdf) - the original articles. MV-[wildcard] patterns will keep popping up,
 but you must understand their original context, and see that it was so different than what they are used for today.
 
 
