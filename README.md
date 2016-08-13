@@ -38,7 +38,7 @@ Many thanks to everyone on the contributor list :)
 
 * :pushpin: [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/) - "get" open source.
 
-## Programming
+## General Programming
 
 _Pure programming, problem solving, detached of specific technology_
 
@@ -50,6 +50,14 @@ _Pure programming, problem solving, detached of specific technology_
   as [here](www.sicpdistilled.com).
 * :book: :wrench: :pushpin: [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) - a classic on a pragmatic thinking for programmers. Was a pivotal part
 of driving a new era of thinking, tools, languages and platforms.
+
+## Functional Programming
+
+_Functional, and functional-style programming_
+
+* :book: :pineapple: [Mostly Adequate Guide (to functional programming)](https://drboolean.gitbooks.io/mostly-adequate-guide) - a great tutorial if you want to short-circuit years of wax-on wax-off to properly
+"get" FP. Start with this if you don't have FP background, or have some university clue, and progress to more heavy hitters such as Haskell, Lisp and so on.
+
 
 
 ## Patterns
