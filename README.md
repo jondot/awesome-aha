@@ -57,8 +57,8 @@ _Functional, and functional-style programming_
 
 * :book: :pineapple: [Mostly Adequate Guide (to functional programming)](https://drboolean.gitbooks.io/mostly-adequate-guide) - a great tutorial if you want to short-circuit years of wax-on wax-off to properly
 "get" FP. Start with this if you don't have FP background, or have some university clue, and progress to more heavy hitters such as Haskell, Lisp and so on.
-* :coffee: :pineapple: [FP Jargon](https://github.com/hemanth/functional-programming-jargon) - pair the "Mostly Adequate Guide" with this one, either while reading, or after finishing reading it, to bolt in 
-place all of the FP magic. It will also serve as a good cheatsheet for later.
+* :coffee: :pineapple: [FP Jargon](https://github.com/hemanth/functional-programming-jargon) and [The Perfect API](https://james-forbes.com/?/posts/the-perfect-api) - pair the "Mostly Adequate Guide" with these, either while reading, or after finishing reading it, to bolt in 
+place all of the FP magic. These will also serve as a good cheatsheet for later.
 
 
 
