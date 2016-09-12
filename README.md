@@ -76,5 +76,11 @@ but you must understand their original context, and see that it was so different
 a lot of recent big data products.
 
 
+## Programming Languages
+
+### Go
+
+- [Golang Notes](https://github.com/luciotato/golang-notes) - coverage of several subjects from a programmer's perspective, including a bit of internals.
+
 
 
