@@ -82,5 +82,13 @@ a lot of recent big data products.
 
 - [Golang Notes](https://github.com/luciotato/golang-notes) - coverage of several subjects from a programmer's perspective, including a bit of internals.
 
+## Effectiveness
 
+- :coffee: [How to read a book in a week](https://hbr.org/2016/02/how-to-read-a-book-a-week) - this is good for some nonfiction books, but all academic papers.
+
+## Mechanics
+
+### Vim
+
+- :pushpin: :coffee: [Seven habits of effective text editing](http://www.moolenaar.net/habits.html)
 
