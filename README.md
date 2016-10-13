@@ -105,7 +105,7 @@ a lot of recent big data products.
 
 ### React
 
-- [React implementation
+- :coffee: :pineapple: [React implementation
   notes](https://facebook.github.io/react/contributing/implementation-notes.html)
   and the [guiding
   principles](https://facebook.github.io/react/contributing/design-principles.html). They are simple to understand and
