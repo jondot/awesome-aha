@@ -111,8 +111,7 @@ a lot of recent big data products.
   principles](https://facebook.github.io/react/contributing/design-principles.html). They are simple to understand and
   well crafted. Read these even if you don't know what React is. If you're
   still not convinced, read [their implementation
-  principles](https://facebook.github.io/react/contributing/design-principles.html#implementation)
-  - it felt like my 20 years of experience trying to build perfect APIs distilled into a small number of simple ideas.
+  principles](https://facebook.github.io/react/contributing/design-principles.html#implementation), it felt like my 20 years of experience trying to build perfect APIs distilled into a small number of simple ideas.
 
 
 
