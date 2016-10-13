@@ -34,9 +34,15 @@ _Legend_:
 
 Many thanks to everyone on the contributor list :)
 
+
+
+
 ## Unix
 
 * :pushpin: [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/) - "get" open source.
+
+
+
 
 ## General Programming
 
@@ -50,6 +56,8 @@ _Pure programming, problem solving, detached of specific technology_
   as [here](www.sicpdistilled.com).
 * :book: :wrench: :pushpin: [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) - a classic on a pragmatic thinking for programmers. Was a pivotal part
 of driving a new era of thinking, tools, languages and platforms.
+
+
 
 ## Functional Programming
 
@@ -76,15 +84,37 @@ but you must understand their original context, and see that it was so different
 a lot of recent big data products.
 
 
+
+
 ## Programming Languages
 
 ### Go
 
 - [Golang Notes](https://github.com/luciotato/golang-notes) - coverage of several subjects from a programmer's perspective, including a bit of internals.
 
+
+
+
 ## Effectiveness
 
 - :coffee: [How to read a book in a week](https://hbr.org/2016/02/how-to-read-a-book-a-week) - this is good for some nonfiction books, but all academic papers.
+
+
+
+## Frameworks
+
+### React
+
+- [React implementation
+  notes](https://facebook.github.io/react/contributing/implementation-notes.html)
+  and the [guiding
+  principles](https://facebook.github.io/react/contributing/design-principles.html). They are simple to understand and
+  well crafted. Read these even if you don't know what React is. If you're
+  still not convinced, read [their implementation
+  principles](https://facebook.github.io/react/contributing/design-principles.html#implementation)
+  as it clicks to my 20 years of experience trying to build perfect APIs distilled into a bunch of ideas.
+
+
 
 ## Mechanics
 
