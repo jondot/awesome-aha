@@ -36,6 +36,8 @@ Many thanks to everyone on the contributor list :)
 
 
 
+## Operating Systems
+- :pushpin: [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) - probably the most accessible book about operating systems. Don't have to read this cover to cover, just hunt out interesting bits you like.
 
 ## Unix
 
