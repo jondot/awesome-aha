@@ -34,6 +34,9 @@ _Legend_:
 
 Many thanks to everyone on the contributor list :)
 
+## Technology
+
+* :pushpin: :coffee: [Five things we need to know about technological change](web.cs.ucdavis.edu/~rogaway/classes/188/materials/postman.pdf) - a classic, mind opening essay about technology and people.
 
 
 ## Operating Systems
@@ -58,6 +61,7 @@ _Pure programming, problem solving, detached of specific technology_
   as [here](www.sicpdistilled.com).
 * :book: :wrench: :pushpin: [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) - a classic on a pragmatic thinking for programmers. Was a pivotal part
 of driving a new era of thinking, tools, languages and platforms.
+* :coffee: [Beating the Averages](http://paulgraham.com/avg.html) - how programming languages are related to a mindset
 
 
 
