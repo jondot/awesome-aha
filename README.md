@@ -26,7 +26,7 @@ _Legend_:
 * :pushpin: - timeless
 * :book: - book
 * :coffee: - accessible, coffee time reading
-* :mortar_board: - academic / hard read
+* :mortar_board: - academic / heavy reading
 * :pineapple: - fresh, recent development
 * :wrench: - makes you a pragmatic programmer
 
