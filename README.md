@@ -104,7 +104,7 @@ a lot of recent big data products.
 ## Effectiveness
 
 - :coffee: [How to read a book in a week](https://hbr.org/2016/02/how-to-read-a-book-a-week) - this is good for some nonfiction books, but all academic papers.
-
+- :coffee: [How to read an academic paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) - changed the way I read papers and made me immediately more effective. Wish I had that when I was in university.
 
 
 ## Frameworks
