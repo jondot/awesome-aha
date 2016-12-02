@@ -127,3 +127,12 @@ a lot of recent big data products.
 
 - :pushpin: :coffee: [Seven habits of effective text editing](http://www.moolenaar.net/habits.html)
 
+
+## Next Steps
+
+You might want to discover things on your own. When you're done with this list, I'd recommend spending some time with these.
+
+- [papers we love](https://github.com/papers-we-love/papers-we-love) - an amazing compilation of academic papers on many subject. Remember, there _are_ probably papers that are missing from this repo out of copyright reasons.
+- [Microsoft research portal](http://academic.research.microsoft.com/) - Microsoft grabbed a lot of pioneers in computer science, there's plenty of great content there.
+- [Google research](http://research.google.com/pubs/papers.html) - same for Google.
+
