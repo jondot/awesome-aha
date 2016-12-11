@@ -104,7 +104,7 @@ a lot of recent big data products.
 ## Effectiveness
 
 - :coffee: [How to read a book in a week](https://hbr.org/2016/02/how-to-read-a-book-a-week) - this is good for some nonfiction books, but all academic papers.
-
+- :coffee: [How to read an academic paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) - changed the way I read papers and made me immediately more effective. Wish I had that when I was in university.
 
 
 ## Frameworks
@@ -132,4 +132,13 @@ a lot of recent big data products.
 ### Habits and Learning
 
 - :coffee: [Summary of Super Human by Habit](https://sivers.org/book/SuperhumanByHabit) by Derek Sivers. Most of the points listed are great and some are so-so; you can get the gist of the ideas without reading the book.
+
+
+## Next Steps
+
+You might want to discover things on your own. When you're done with this list, I'd recommend spending some time with these.
+
+- [papers we love](https://github.com/papers-we-love/papers-we-love) - an amazing compilation of academic papers on many subject. Remember, there _are_ probably papers that are missing from this repo out of copyright reasons.
+- [Microsoft research portal](http://academic.research.microsoft.com/) - Microsoft grabbed a lot of pioneers in computer science, there's plenty of great content there.
+- [Google research](http://research.google.com/pubs/papers.html) - same for Google.
 
