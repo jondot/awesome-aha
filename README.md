@@ -127,3 +127,9 @@ a lot of recent big data products.
 
 - :pushpin: :coffee: [Seven habits of effective text editing](http://www.moolenaar.net/habits.html)
 
+## You
+
+### Habits and Learning
+
+- :coffee: [Summary of Super Human by Habit](https://sivers.org/book/SuperhumanByHabit) by Derek Sivers. Most of the points listed are great and some are so-so; you can get the gist of the ideas without reading the book.
+
