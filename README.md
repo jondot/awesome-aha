@@ -62,7 +62,7 @@ _Pure programming, problem solving, detached of specific technology_
   as [here](www.sicpdistilled.com).
 * :book: :wrench: :pushpin: [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) - a classic on a pragmatic thinking for programmers. Was a pivotal part
 of driving a new era of thinking, tools, languages and platforms.
-
+* :coffee: [better errors](http://elm-lang.org/blog/compiler-errors-for-humans) opens your mind to the idea of giving humans better compiler errors (as implemented in Elm, written by Elm's creator).
 
 
 ## Functional Programming
