@@ -63,6 +63,8 @@ _Pure programming, problem solving, detached of specific technology_
 * :book: :wrench: :pushpin: [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) - a classic on a pragmatic thinking for programmers. Was a pivotal part
 of driving a new era of thinking, tools, languages and platforms.
 * :coffee: [better errors](http://elm-lang.org/blog/compiler-errors-for-humans) opens your mind to the idea of giving humans better compiler errors (as implemented in Elm, written by Elm's creator).
+* :mortar_board: [The LISP Paper](https://www.brinckerhoff.org/clements/csc530-sp09/Readings/mccarthy-1960.pdf) _1960_, this is where John McCarthy introduces [LISP](https://en.wikipedia.org/wiki/Lisp_(programming_language)), and introduces the world to: recursion, naming
+variable with more than a single letter (as was done because of math), and if/else expressions. Later, non-functional languages would adopt it. Thanks, John!.
 
 
 ## Functional Programming
