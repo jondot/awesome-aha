@@ -125,9 +125,22 @@ a lot of recent big data products.
 
 ## Mechanics
 
+### Programming Languages
+
+- :wrench:  [Learn X in Y Minutes](https://learnxinyminutes.com) - a highly
+  effective website for polyglots, for refreshers, and the gist of many
+  programming languages. Use this if you're already experienced with
+  programming.
+
+
 ### Vim
 
 - :pushpin: :coffee: [Seven habits of effective text editing](http://www.moolenaar.net/habits.html)
+- :wrench: [Vim Bootstrap](http://www.vim-bootstrap.com/) - a great `vimrc` generator with sane defaults.
+
+
+
+
 
 ## You
 
