@@ -65,6 +65,8 @@ of driving a new era of thinking, tools, languages and platforms.
 * :coffee: [better errors](http://elm-lang.org/blog/compiler-errors-for-humans) opens your mind to the idea of giving humans better compiler errors (as implemented in Elm, written by Elm's creator).
 * :mortar_board: [The LISP Paper](https://www.brinckerhoff.org/clements/csc530-sp09/Readings/mccarthy-1960.pdf) _1960_, this is where John McCarthy introduces [LISP](https://en.wikipedia.org/wiki/Lisp_(programming_language)), and introduces the world to: recursion, naming
 variable with more than a single letter (as was done because of math), and if/else expressions. Later, non-functional languages would adopt it. Thanks, John!.
+* :coffee: [Greg Young on Software](https://vimeo.com/108441214) - (video) a few observations about what makes a good or bad codebase, a good or bad design. Spoiler: it's the code size; sort of. Has many
+other good observation if you have not a lot of experience. Very repetitive, but good.
 
 
 ## Functional Programming
