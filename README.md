@@ -69,6 +69,8 @@ variable with more than a single letter (as was done because of math), and if/el
 other good observation if you have not a lot of experience. Very repetitive, but good.
 * :coffee: :pushpin: [Rob Pike's Notes on Programming in C](https://docs.google.com/document/d/1ZhB5a7MoY1hEkKcbn9TAB4bMSjyZZWer_6Q-EHKJeOc/edit?usp=sharing) - Really this could have been
 called "shit people knew in 89' that people today will keep rediscovering and fight about - but will never stop to realize they're really reinventing a flatter wheel".
+* :coffee: [Design Stamina Hypothesis (Fowler)](https://www.martinfowler.com/bliki/DesignStaminaHypothesis.html) - The emerging pop computing trend challenges good design because people keep adopting buzzwords and slapping stack overflow code snippets onto production. This
+essay reminds us why good design is important and why it's so hard to justify good design or architecture in general.
 
 
 ## Functional Programming
