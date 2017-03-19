@@ -81,6 +81,8 @@ _Functional, and functional-style programming_
 "get" FP. Start with this if you don't have FP background, or have some university clue, and progress to more heavy hitters such as Haskell, Lisp and so on.
 * :coffee: :pineapple: [FP Jargon](https://github.com/hemanth/functional-programming-jargon) and [The Perfect API](https://james-forbes.com/?/posts/the-perfect-api) - pair the "Mostly Adequate Guide" with these, either while reading, or after finishing reading it, to bolt in 
 place all of the FP magic. These will also serve as a good cheatsheet for later.
+* :coffee: [Some History of Functional Programming Languages](https://www.cs.kent.ac.uk/people/staff/dat/tfp12/tfp12.pdf) - Turner summarizes part of the history of FP languages. Good to skim and to get a feeling of the evolution.
+* :pushpin: [Introduction to Functional Programming](https://www.amazon.com/Introduction-Functional-Programming-Prentice-Hall-Paperback/dp/B00OVNLJTS) - Wadler and Bird's classic. Many FP concepts first introduced here. Search on Google for more usable copies.
 
 
 
