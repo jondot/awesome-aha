@@ -71,6 +71,7 @@ other good observation if you have not a lot of experience. Very repetitive, but
 called "shit people knew in 89' that people today will keep rediscovering and fight about - but will never stop to realize they're really reinventing a flatter wheel".
 * :coffee: [Design Stamina Hypothesis (Fowler)](https://www.martinfowler.com/bliki/DesignStaminaHypothesis.html) - The emerging pop computing trend challenges good design because people keep adopting buzzwords and slapping stack overflow code snippets onto production. This
 essay reminds us why good design is important and why it's so hard to justify good design or architecture in general.
+* :coffee: [ID Software's 90's Programming Guidelines](https://www.youtube.com/watch?v=E2MIpi8pIvY) - (video) Amazingly relevant still, even today.
 
 
 ## Functional Programming
@@ -145,6 +146,7 @@ a lot of recent big data products.
 
 - :pushpin: :coffee: [Seven habits of effective text editing](http://www.moolenaar.net/habits.html)
 - :wrench: [Vim Bootstrap](http://www.vim-bootstrap.com/) - a great `vimrc` generator with sane defaults.
+- :coffee: [A Good Vimrc](https://dougblack.io/words/a-good-vimrc.html) - a soft and reasonable introduction to vim configuration that makes sense.
 
 
 
