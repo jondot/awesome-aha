@@ -36,14 +36,22 @@ Many thanks to everyone on the contributor list :)
 
 ## Technology
 
+_How to judge technology and develop a good gut feeling_
+
 * :pushpin: :coffee: [Five things we need to know about technological change](web.cs.ucdavis.edu/~rogaway/classes/188/materials/postman.pdf) - a classic, mind opening essay about technology and people.
 * :coffee: [Beating the Averages](http://paulgraham.com/avg.html) - how programming languages are related to a mindset.
 
 
 ## Operating Systems
+
+_Understanding the almost-mechanical pieces on top of which we run our software_
+
 - :pushpin: [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) - probably the most accessible book about operating systems. Don't have to read this cover to cover, just hunt out interesting bits you like.
 
+
 ## Unix
+
+_It's an operating system, but also a mindset and a cult_
 
 * :pushpin: [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/) - "get" open source.
 
@@ -89,6 +97,8 @@ place all of the FP magic. These will also serve as a good cheatsheet for later.
 
 ## Patterns
 
+_Design patterns in depth_
+
 * :pushpin: :mortar_board: [MVC](http://heim.ifi.uio.no/~trygver/1979/mvc-1/1979-05-MVC.pdf), [MVP](http://www.wildcrest.com/Potel/Portfolio/mvp.pdf) - the original articles. MV-[wildcard] patterns will keep popping up,
 but you must understand their original context, and see that it was so different than what they are used for today.
 
@@ -97,13 +107,26 @@ but you must understand their original context, and see that it was so different
 
 ## Data
 
+_How to treat data, and datastructures_
+
 - :pineapple: :coffee: [Log structured merge trees](http://www.benstopford.com/2015/02/14/log-structured-merge-trees/) - the data structure that powers
 a lot of recent big data products.
+
+
+# Ops
+
+_Servers, ops, and compute centers_
+
+- [My (Rob's) Philosophy on Alerting](https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/edit) - The orignal raw document that kickstarted [this case study](https://www.oreilly.com/ideas/monitoring-distributed-systems) by Rob Ewaschuck. I prefer
+the raw original because it passes a sense of "There's no silver bullet" so I treat it as a discusion or knowledge sharing. Don't take
+it as the prescriptive way to go (and, of course, do read the [Google SRE book](https://landing.google.com/sre/book.html), etc.)
 
 
 
 
 ## Programming Languages
+
+_High precision pointers into various programming languages_
 
 ### Go
 
@@ -114,11 +137,15 @@ a lot of recent big data products.
 
 ## Effectiveness
 
+_Be a more effective engineer_
+
 - :coffee: [How to read a book in a week](https://hbr.org/2016/02/how-to-read-a-book-a-week) - this is good for some nonfiction books, but all academic papers.
 - :coffee: [How to read an academic paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) - changed the way I read papers and made me immediately more effective. Wish I had that when I was in university.
 
 
 ## Frameworks
+
+_High precision pointers into various frameworks_
 
 ### React
 
@@ -133,6 +160,8 @@ a lot of recent big data products.
 
 
 ## Mechanics
+
+_Focusing on tools and practices_
 
 ### Programming Languages
 
@@ -154,12 +183,16 @@ a lot of recent big data products.
 
 ## You
 
+_About your own self, mental modes, and more_
+
 ### Habits and Learning
 
 - :coffee: [Summary of Super Human by Habit](https://sivers.org/book/SuperhumanByHabit) by Derek Sivers. Most of the points listed are great and some are so-so; you can get the gist of the ideas without reading the book.
 
 
 ## Next Steps
+
+_Where to go from here?_
 
 You might want to discover things on your own. When you're done with this list, I'd recommend spending some time with these.
 
