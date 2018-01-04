@@ -38,7 +38,7 @@ Many thanks to everyone on the contributor list :)
 
 _How to judge technology and develop a good gut feeling_
 
-* :pushpin: :coffee: [Five things we need to know about technological change](web.cs.ucdavis.edu/~rogaway/classes/188/materials/postman.pdf) - a classic, mind opening essay about technology and people.
+* :pushpin: :coffee: [Five things we need to know about technological change](http://web.cs.ucdavis.edu/~rogaway/classes/188/materials/postman.pdf) - a classic, mind opening essay about technology and people.
 * :coffee: [Beating the Averages](http://paulgraham.com/avg.html) - how programming languages are related to a mindset.
 
 
